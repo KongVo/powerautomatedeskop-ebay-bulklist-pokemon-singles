@@ -6,9 +6,11 @@ This automation flow helps you list Pokémon singles from a CSV file on eBay.
 
 1. Read data from the CSV file.
    
-   CSV File Format 
-Card Number	Card Name	Quantity	Condition
-#110/091	Charmeleon	2	NM
+Example CSV File Format:
+
+Card Number,Card Name,Quantity,Condition
+#110/091,Charmeleon,2,NM
+
 
 3. Create a Power Automate Desktop flow.
 4. Paste the code into the main flow.
