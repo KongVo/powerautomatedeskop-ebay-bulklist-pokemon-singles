@@ -9,6 +9,7 @@ This automation flow helps you list Pokémon singles from a CSV file on eBay.
 Example CSV File Format:
 
 Card Number,Card Name,Quantity,Condition
+
 #110/091,Charmeleon,2,NM
 
 
