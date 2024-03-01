@@ -10,7 +10,7 @@ Example CSV File Format:
 
 Card Number,Card Name,Quantity,Condition
 
-#110/091,Charmeleon,2,NM
+#110,Charmeleon,2,NM
 
 
 3. Create a Power Automate Desktop flow.
