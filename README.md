@@ -19,7 +19,7 @@ Card Number,Card Name,Quantity,Condition
 
 ## Prerequisites
 
-- Power Automate Desktop installed (version 2.41.170.24032).
+- Power Automate Desktop installed (version 2.42.317.24061).
 - A valid eBay account.
 
 ## Usage
